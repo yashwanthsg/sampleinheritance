@@ -1,0 +1,2 @@
+# sampleinheritance
+Types of inheritance
